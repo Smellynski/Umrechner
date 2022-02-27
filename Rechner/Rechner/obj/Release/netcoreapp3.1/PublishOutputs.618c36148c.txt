@@ -1,0 +1,5 @@
+C:\Users\Anthony\source\repos\Rechner\Rechner\bin\Release\netcoreapp3.1\publish\Rechner.exe
+C:\Users\Anthony\source\repos\Rechner\Rechner\bin\Release\netcoreapp3.1\publish\Rechner.dll
+C:\Users\Anthony\source\repos\Rechner\Rechner\bin\Release\netcoreapp3.1\publish\Rechner.deps.json
+C:\Users\Anthony\source\repos\Rechner\Rechner\bin\Release\netcoreapp3.1\publish\Rechner.runtimeconfig.json
+C:\Users\Anthony\source\repos\Rechner\Rechner\bin\Release\netcoreapp3.1\publish\Rechner.pdb
